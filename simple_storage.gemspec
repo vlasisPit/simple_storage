@@ -40,4 +40,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 2.3.4"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency "json"
+  spec.add_development_dependency "simplecov", "~> 0.12.0"
+  spec.add_development_dependency "coveralls"
 end
