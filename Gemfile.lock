@@ -52,6 +52,7 @@ DEPENDENCIES
   rspec (~> 3.0)
   simple_storage!
   simplecov (~> 0.12.0)
+  thor
 
 BUNDLED WITH
    2.3.4
